@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirebasePhoneAuth</string>
+    <string name="get_verification">Get Verification</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_code_resived">Enter Code Resived</string>
+    <string name="signin">SignIn</string>
 </resources>
